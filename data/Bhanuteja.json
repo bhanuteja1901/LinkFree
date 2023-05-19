@@ -1,0 +1,15 @@
+{
+  "name": "Bhanuteja",
+  "type": "personal",
+  "bio": "Tech Enthusist",
+   "tags": [
+    "Open Source",
+    "DevOps",
+    "Golang",
+    "Kubernetes",
+    "Docker"],
+   
+"socials": [ { "icon": "FaTwitter", "url": "https://twitter.com/HereBhanuteja" },
+    { "icon": "FaGithub", "url": "https://github.com/bhanuteja1901 " },
+   
+
